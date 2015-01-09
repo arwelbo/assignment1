@@ -13,6 +13,7 @@ My name is Austin Welborn and I was born Deaf.  I graduated with both my bachelo
 *3D modeling
 *cybersecurity (possibly?)
 *steampunk
-*tatatooes
+*tattoos
 
 # Programming Background
+I have worked with MatLab, AutoLisp, HTML, CSS, Javascript a little, but it wasn't until last quarter when I really worked with C++ in CS165.
