@@ -3,6 +3,7 @@ My name is Austin Welborn and I was born Deaf.  I graduated with both my bachelo
 ## Hobbies that I have
 *working out
 *eating Paleo foods (which only focuses on meats, vegetables, fruits, no grains or sugar/fats)
+*crossfit (in the future)
 *watching horror movies
 *playing video games
 *reading
@@ -11,9 +12,13 @@ My name is Austin Welborn and I was born Deaf.  I graduated with both my bachelo
 ## Interests
 *programming
 *3D modeling
+*Haptics
+*AI
 *cybersecurity (possibly?)
 *steampunk
 *tattoos
 
 # Programming Background
 I have worked with MatLab, AutoLisp, HTML, CSS, Javascript a little, but it wasn't until last quarter when I really worked with C++ in CS165.   My favorite project was probably the final project in CS165 where I created a short rpg game with several puzzles and battles and 3 options for easy, medium, hard.
+
+I am looking forward to learning more about CS290 and web development and hopefully that after this class I would be able to create some nifty webpages by myself that I can use for a variety of things.
