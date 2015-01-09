@@ -16,4 +16,4 @@ My name is Austin Welborn and I was born Deaf.  I graduated with both my bachelo
 *tattoos
 
 # Programming Background
-I have worked with MatLab, AutoLisp, HTML, CSS, Javascript a little, but it wasn't until last quarter when I really worked with C++ in CS165.
+I have worked with MatLab, AutoLisp, HTML, CSS, Javascript a little, but it wasn't until last quarter when I really worked with C++ in CS165.   My favorite project was probably the final project in CS165 where I created a short rpg game with several puzzles and battles and 3 options for easy, medium, hard.
